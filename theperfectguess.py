@@ -1,5 +1,6 @@
 import random
 num = random.randint(0,100)
+print(num)
 count = 0 
 def theperfectguess():
     global count
